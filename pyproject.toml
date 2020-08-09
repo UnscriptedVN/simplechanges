@@ -3,6 +3,13 @@ name = "simplechanges"
 version = "0.1.0"
 description = "A simple changelog parser"
 authors = ["Marquis Kurt <software@marquiskurt.net>"]
+license = "MPL-2.0"
+readme = "README.md"
+homepage = "https://github.com/UnscriptedVN/simplechanges"
+repository = "https://github.com/UnscriptedVN/simplechanges"
+classifiers = [
+    "Topic :: Software Development :: Libraries"
+]
 
 [tool.poetry.dependencies]
 python = "^2.7 || >3.6"
