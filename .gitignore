@@ -1,0 +1,6 @@
+**/__pycache__/**
+.vscode/
+**/**.pyc
+**/**.egg-info
+docs/_site/
+.idea/**
